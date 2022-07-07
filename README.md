@@ -1,4 +1,4 @@
-# Cilog
+# Cilog - [UNDER CONSTRUCTION]
 Codeigniter library to create logs easily and store them in Json format.
 
 ## Noted!
